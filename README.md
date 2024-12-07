@@ -4,7 +4,7 @@
 
 **ShortMax** adalah aplikasi streaming yang dirancang untuk memberikan akses ke berbagai koleksi acara TV, drama, dan konten bentuk pendek lainnya. Dengan antarmuka yang ramping dan mudah digunakan, ShortMax menawarkan pengalaman menonton yang lebih baik, memungkinkan pengguna untuk streaming konten berkualitas tinggi dengan mudah. Aplikasi ini menyediakan fitur premium seperti streaming tanpa iklan dan akses ke konten eksklusif, semuanya tanpa biaya tambahan. Jika Anda bosan dengan platform streaming biasa yang sering mengganggu dan akses terbatas, ShortMax adalah solusi yang Anda butuhkan.
 
->Unduh Now: https://modhello.com/shortmax/
+>Unduh Disini: https://modhello.com/shortmax/
 
 ## Fitur ShortMax
 
